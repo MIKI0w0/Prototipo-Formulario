@@ -32,4 +32,3 @@ frontend/build/
 Backend/node_modules/
 Backend/*.log
 # Temporary files
-tmp/
