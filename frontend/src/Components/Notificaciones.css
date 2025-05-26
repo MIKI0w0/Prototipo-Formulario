@@ -1,0 +1,21 @@
+.notificaciones-container {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.notificaciones-mensaje {
+  color: green;
+  background-color: #e6ffe6; 
+  border: 1px solid green;
+  padding: 8px;
+  margin-bottom: 5px; 
+}
+
+.notificaciones-error {
+  color: red;
+  background-color: #ffe6e6; 
+  border: 1px solid red;
+  padding: 8px;
+}
