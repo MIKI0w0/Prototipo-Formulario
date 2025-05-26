@@ -31,3 +31,5 @@ frontend/build/
 # Backend
 Backend/node_modules/
 Backend/*.log
+# Temporary files
+tmp/
